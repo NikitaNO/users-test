@@ -1,0 +1,254 @@
+[
+  {
+    "age": 22,
+    "id": 1,
+    "firstName": "Casper",
+    "lastName": "O'Connell",
+    "tasks": [
+      {
+        "userId": 1,
+        "id": 1,
+        "title": "ratione voluptas velit",
+        "description": "Animi dolores et impedit.",
+        "score": 3.9
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "title": "aut molestiae et",
+        "description": "In tenetur exercitationem minima deleniti ratione.",
+        "score": 3.93
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "title": "laboriosam aut quo",
+        "description": "Sint velit voluptas consequatur sequi provident magnam ducimus.",
+        "score": 4.48
+      }
+    ]
+  },
+  {
+    "age": 19,
+    "id": 2,
+    "firstName": "Maci",
+    "lastName": "Feeney",
+    "tasks": [
+      {
+        "userId": 2,
+        "id": 4,
+        "title": "nobis in ea",
+        "description": "Aut dolores dolorem atque dolor in est.",
+        "score": 4.45
+      }
+    ]
+  },
+  {
+    "age": 25,
+    "id": 3,
+    "firstName": "Dallin",
+    "lastName": "Tromp",
+    "tasks": [
+      {
+        "userId": 3,
+        "id": 5,
+        "title": "saepe numquam odio",
+        "description": "Quod quod molestias ut unde similique maiores ex.",
+        "score": 3.81
+      },
+      {
+        "userId": 3,
+        "id": 6,
+        "title": "explicabo quidem dolorum",
+        "description": "Quis fuga voluptatem incidunt quasi laborum atque corporis veniam et.",
+        "score": 4.01
+      },
+      {
+        "userId": 3,
+        "id": 7,
+        "title": "blanditiis fugiat natus",
+        "description": "Omnis eum eaque.",
+        "score": 3.34
+      },
+      {
+        "userId": 3,
+        "id": 8,
+        "title": "sint asperiores sunt",
+        "description": "Illum corporis in tenetur.",
+        "score": 3.87
+      },
+      {
+        "userId": 3,
+        "id": 9,
+        "title": "maiores debitis minima",
+        "description": "Dolorem consequatur soluta et accusamus numquam possimus voluptatum quia.",
+        "score": 4.07
+      },
+      {
+        "userId": 3,
+        "id": 10,
+        "title": "veniam autem aperiam",
+        "description": "Veritatis optio dolores.",
+        "score": 4.53
+      },
+      {
+        "userId": 3,
+        "id": 11,
+        "title": "vel et illo",
+        "description": "Rerum et dolor ea omnis quia alias et laborum.",
+        "score": 3.73
+      }
+    ]
+  },
+  {
+    "age": 31,
+    "id": 4,
+    "firstName": "Tracy",
+    "lastName": "Becker",
+    "tasks": [
+      {
+        "userId": 4,
+        "id": 12,
+        "title": "amet eum quisquam",
+        "description": "Et aliquid delectus quae amet vitae non voluptatem numquam repudiandae.",
+        "score": 4.55
+      },
+      {
+        "userId": 4,
+        "id": 13,
+        "title": "qui voluptatem error",
+        "description": "Libero qui quo quidem reprehenderit est voluptatem repellat reiciendis.",
+        "score": 3.96
+      },
+      {
+        "userId": 4,
+        "id": 14,
+        "title": "voluptatibus ea ratione",
+        "description": "Corrupti quia dolores et et totam ut.",
+        "score": 4.69
+      },
+      {
+        "userId": 4,
+        "id": 15,
+        "title": "quas nulla facere",
+        "description": "Expedita mollitia voluptas sapiente explicabo hic molestias accusantium quibusdam.",
+        "score": 4.77
+      },
+      {
+        "userId": 4,
+        "id": 16,
+        "title": "amet aliquam aliquam",
+        "description": "Laudantium iusto recusandae molestiae rerum beatae voluptatem rerum.",
+        "score": 4.55
+      },
+      {
+        "userId": 4,
+        "id": 17,
+        "title": "accusantium nam ad",
+        "description": "Accusamus dolores ipsa est.",
+        "score": 4.81
+      }
+    ]
+  },
+  {
+    "age": 36,
+    "id": 5,
+    "firstName": "Emil",
+    "lastName": "Swift",
+    "tasks": [
+      {
+        "userId": 5,
+        "id": 18,
+        "title": "odit similique quam",
+        "description": "Facere magnam ab ipsa.",
+        "score": 4.71
+      },
+      {
+        "userId": 5,
+        "id": 19,
+        "title": "aliquam enim velit",
+        "description": "Reiciendis nihil eveniet alias labore.",
+        "score": 4.59
+      },
+      {
+        "userId": 5,
+        "id": 20,
+        "title": "expedita recusandae cumque",
+        "description": "Aliquam assumenda esse nemo.",
+        "score": 4.87
+      },
+      {
+        "userId": 5,
+        "id": 21,
+        "title": "atque vel et",
+        "description": "Minus quo non adipisci qui vero.",
+        "score": 4.68
+      },
+      {
+        "userId": 5,
+        "id": 22,
+        "title": "a atque fuga",
+        "description": "Eligendi esse tempore rerum maiores commodi.",
+        "score": 4.92
+      }
+    ]
+  },
+  {
+    "age": 28,
+    "id": 6,
+    "firstName": "Dillon",
+    "lastName": "Powlowski",
+    "tasks": [
+      {
+        "userId": 6,
+        "id": 23,
+        "title": "ut occaecati sequi",
+        "description": "Distinctio itaque voluptatem molestiae unde quas qui quidem.",
+        "score": 4.61
+      },
+      {
+        "userId": 6,
+        "id": 24,
+        "title": "sed ea libero",
+        "description": "Dolores cum eaque numquam quos porro dolor eius omnis.",
+        "score": 2.34
+      },
+      {
+        "userId": 6,
+        "id": 25,
+        "title": "eos quo nemo",
+        "description": "Quod delectus vel iure perspiciatis nisi et rem saepe ipsa.",
+        "score": 4.13
+      },
+      {
+        "userId": 6,
+        "id": 26,
+        "title": "corrupti quaerat quas",
+        "description": "Possimus error ipsa.",
+        "score": 3.84
+      }
+    ]
+  },
+  {
+    "age": 30,
+    "id": 7,
+    "firstName": "Else",
+    "lastName": "Swaniawski",
+    "tasks": [
+      {
+        "userId": 7,
+        "id": 27,
+        "title": "quod voluptas ut",
+        "description": "Velit qui non totam cum natus alias.",
+        "score": 4.01
+      },
+      {
+        "userId": 7,
+        "id": 28,
+        "title": "aut voluptas totam",
+        "description": "Officiis animi natus quisquam aliquam vero.",
+        "score": 4.57
+      }
+    ]
+  }
+]
